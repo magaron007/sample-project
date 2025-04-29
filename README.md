@@ -1,2 +1,2 @@
 # sample-project
-this is a sample project
+placeholder repo for profile web page.
